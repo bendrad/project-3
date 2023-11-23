@@ -1,0 +1,10 @@
+pycaret
+category_encoders
+scikit-learn
+scipy
+statsmodels
+pandas
+numpy
+matplotlib
+seaborn
+tabulate
